@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const mongoose = require('mongoose');
 const Meetup = require('./models/meetups');
 const User = require('./models/users');
